@@ -2,6 +2,6 @@
 
 int main ()
 {
-	printf("TEST PROBA 3\n");
+	printf("TEST PROBA\n");
 	return 0;
 }
