@@ -9,6 +9,6 @@ int main ()
 	printf("%i\n", len);
 	printf("%s\n", s);
 	assert(len==10);
-	printf("Pull");
+	printf("Pull - ne znam sta se desilo");
 	return 0;
 }
