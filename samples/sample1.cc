@@ -47,7 +47,7 @@ int Factorial(int n) {
 bool IsPrime(int n) {
   // Trivial case 1: small numbers
   if (n <= 1) return false;
-
+ 
   // Trivial case 2: even numbers
   if (n % 2 == 0) return n == 2;
 
